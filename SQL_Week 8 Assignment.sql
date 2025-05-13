@@ -1,0 +1,1 @@
+SELECT * FROM library_management.book_genre;
